@@ -1,1 +1,1 @@
-Cordial saludo, este repositorio fue creado exclusivamente para mostrar los resultados de mi investigacion usando los lineamientos de la Fundacion de Educacion Supwerior San Jose, para el trabajo final del diplomado de Analisis y Big Data del programa Hazte Profesional.
+Cordial saludo, este repositorio fue creado exclusivamente para mostrar los resultados de mi investigacion usando los lineamientos de la Fundacion de Educacion Superior San Jose, para el trabajo final del diplomado de Analisis y Big Data del programa Hazte Profesional.
